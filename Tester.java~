@@ -5,8 +5,8 @@ import com.sun.org.apache.xpath.internal.SourceTree;
  */
 public class Tester {
     public static void main(String[] args) {
-        System.out.println("whateverrrrr");
-        
+        System.out.println("whatever");
+        System.out.println("Dikke");
         System.out.println("Mergaapa taa");
 
     }
