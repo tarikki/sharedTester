@@ -3,6 +3,7 @@
  */
 public class Tester {
     public static void main(String[] args) {
-        System.out.println("Kaikki pois!");
+        System.out.println("Kakki pois!");
+System.out.println("Kakki pois!");
     }
 }
