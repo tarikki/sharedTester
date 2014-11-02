@@ -3,12 +3,14 @@
  */
 public class Tester {
     public static void main(String[] args) {
+        System.out.println("whateverrrrr");
+        System.out.println("Lisaa testiaaaaaaa");
 <<<<<<< HEAD
-        System.out.println("whatever, extra dikke yo yo");
+        System.out.print("Mergaapa taaljkafdlkjafdljkafd");
+        System.out.println("Pepe testaaatatatatata jakajkdjsfk");
 =======
-        System.out.println("whatever");
-        System.out.println("Dikke");
-
->>>>>>> 2c15152e4f9321d0d6c93fbaadc6ff98a5175bf4
+        System.out.print("Mergaapa taa");
+        System.out.println("Pepe poistaa paskaa");
+>>>>>>> b1c947f2319fd7ab7bb97b793bddce0f06df1ce9
     }
 }
