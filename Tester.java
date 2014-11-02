@@ -5,7 +5,7 @@ public class Tester {
     public static void main(String[] args) {
         System.out.println("whateverrrrr");
         
-        System.out.println("Mergaapa taa");
-        System.out.println("Pepe testaa");
+        System.out.print("Mergaapa taa");
+        System.out.println("Pepe testaaatatatatata jakajkdjsfk");
     }
 }
