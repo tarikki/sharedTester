@@ -7,5 +7,6 @@ public class Tester {
         System.out.println("Lisaa testiaaaaaaa");
         System.out.print("Mergaapa taaljkafdlkjafdljkafd");
         System.out.println("Pepe testaaatatatatata jakajkdjsfk");
+        System.out.println("Lisää testausta");
     }
 }
