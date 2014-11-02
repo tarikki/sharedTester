@@ -4,7 +4,6 @@
 public class Tester {
     public static void main(String[] args) {
         System.out.println("Kakki pois!");
-        System.out.println("Kakki pois!");
-        System.out.println("Paskaaaaaa");
+System.out.println("Kakki pois!");
     }
 }
