@@ -1,13 +1,14 @@
-import com.sun.org.apache.xpath.internal.SourceTree;
-
 /**
  * Created by extradikke on 1-11-14.
  */
 public class Tester {
     public static void main(String[] args) {
+<<<<<<< HEAD
+        System.out.println("whatever, extra dikke yo yo");
+=======
         System.out.println("whatever");
         System.out.println("Dikke");
-        System.out.println("Mergaapa taa");
 
+>>>>>>> 2c15152e4f9321d0d6c93fbaadc6ff98a5175bf4
     }
 }
