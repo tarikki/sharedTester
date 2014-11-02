@@ -6,6 +6,6 @@ public class Tester {
         System.out.println("whateverrrrr");
         System.out.println("Lisaa testiaaaaaaa");
         System.out.print("Mergaapa taa");
-        System.out.println("Pepe testaaatatatatata jakajkdjsfk");
+        System.out.println("Pepe poistaa paskaa");
     }
 }
